@@ -1,0 +1,5 @@
+﻿From,To,Density Change,Density % Change,Average Degree Change,Average Degree % Change,Average Clustering Change,Average Clustering % Change,Number of Communities Change,Number of Communities % Change,Modularity Change,Modularity % Change,Structural Change Score
+seven_valleys,simurgh_encounter,-0.266,-41.73,-3.0857,-37.24,0.1578,92.12,1,50.0,0.0931,157.0,0.7562
+opening,birds_journey,0.2638,58.56,4.1429,70.73,-0.0293,-19.77,-2,-66.67,-0.0255,-100.0,0.6315
+birds_journey,seven_valleys,-0.0769,-10.77,-1.7143,-17.14,0.0524,44.07,1,100.0,0.0593,0,0.3558
+simurgh_encounter,final_state,0.0286,7.7,-1.6,-30.77,-0.049,-14.89,-1,-33.33,-0.0682,-44.75,0.2629

@@ -1,0 +1,93 @@
+Folder PATH listing
+Volume serial number is 000000FB 463A:0D7D
+C:.
+|   project_structure.txt
+|   PROJECT_SUMMARY.md
+|   README.md
+|   
++---assets
+|       birds_journey_network2.png
+|       concept_evolution.png
+|       concept_evolution_en.png
+|       concept_evolution_fa.png
+|       final_state_network5.png
+|       opening_network1.png
+|       seven_valleys_network3.png
+|       simurgh_encounter_network4.png
+|       
++---data
+|       mantigh_al_tayr_clean.txt
+|       mantigh_al_tayr_raw.txt
+|       persian_stopwords.txt
+|       
++---results
+|   |   concept_persistence.csv
+|   |   edge_status_analysis_en.csv
+|   |   final_network_analysis_v2_en.csv
+|   |   node_centrality_trajectories.csv
+|   |   normalized_edge_evolution_long.csv
+|   |   pmi_analysis_en.csv
+|   |   sensitivity_analysis.csv
+|   |   stage_edge_status_counts.csv
+|   |   structural_turning_points.csv
+|   |   
+|   \---archive
+|           central_concepts_table.csv
+|           edge_evolution.csv
+|           edge_status_analysis_fa.csv
+|           final_network_analysis.csv
+|           final_network_analysis_en.csv
+|           final_network_analysis_fa.csv
+|           final_network_analysis_v2_fa.csv
+|           final_results_table.csv
+|           final_results_table_en.csv
+|           final_results_table_fa.csv
+|           independent_network_audit.csv
+|           network_results.csv
+|           normalized_edge_evolution.csv
+|           pmi_analysis.csv
+|           pmi_analysis_fa.csv
+|           publication_table.csv
+|           stage_network_metrics_en.csv
+|           stage_network_metrics_fa.csv
+|           transition_analysis.csv
+|           transition_summary.csv
+|           
+\---scripts
+        audit_final_pipeline.py
+        community_detection.py
+        community_visualization.py
+        comparative_visualization.py
+        compare_frequency_network.py
+        concept_evolution.py
+        concept_persistence.py
+        cooccurrence_network.py
+        corpus_statistics.py
+        edge_evolution.py
+        edge_status_analysis.py
+        export_centrality.py
+        export_network_data.py
+        final_network_analysis.py
+        final_network_analysis_v2.py
+        final_results_table.py
+        generate_githab_assets.py
+        independent_network_audit.py
+        keyword_frecuency.py
+        network_metrics.py
+        network_table.py
+        network_visualization.py
+        normalized_edge_evolution.py
+        normalize_concepts.py
+        pmi_analysis.py
+        pmi_raw_statistics_audit.py
+        publication_table.py
+        sections_cleaning.py
+        section_statistics.py
+        section_tfidf.py
+        sensitivity_analysis.py
+        structural_turning_points.py
+        summarize_network.py
+        tfidf_analysis.py
+        transition_analysis.py
+        transition_summary.py
+        
